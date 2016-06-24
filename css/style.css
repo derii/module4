@@ -10,7 +10,7 @@ body {
 /*============= MAIN ==================*/
 .main {
 	width: 1000px;
-	margin: 38px auto 0;
+	margin: 0 auto;
 	background-color: #fff;	
 	-webkit-box-shadow: 0 0 10px 2px #031d28;
 	   -moz-box-shadow: 0 0 10px 2px #031d28;
